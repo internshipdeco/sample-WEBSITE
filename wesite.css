@@ -1,0 +1,365 @@
+
+
+#header{
+    background-image: url(img/index-header_bg.jpg);
+    border:0px;
+    vertical-align: top;
+    
+    background-size: cover;
+    background-attachment: scroll;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    border:0px;
+    vertical-align: top;
+}
+
+.block-1 .logo  {
+    padding-top: 280px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.block-1 .logo h1{
+    
+   font-family: 'Pacifico', cursive;
+    font-size: 48px;
+    width: 250px;
+    height: 78px;
+    display: block;
+    border: 3px solid #fff;
+    
+    position: relative;
+    margin: 0 auto;
+    line-height: 72px;
+    color: #fff;
+}
+.block-1 span{
+    vertical-align: -25px;
+    text-transform: uppercase;
+    font-size: 14px;
+    right: 13px;
+    bottom: -5px;
+    font-weight: 900;
+    line-height: 14px;
+    font-family:'Open Sans', sans-serif;
+    color: inherit;
+    position: absolute;
+
+}
+.block-1 h2{
+    font-size: 70px;
+    margin-top: 30px;
+    color: #fff;
+}
+.block-1 h3{
+    font-size: 50px;
+    margin-top: 30px;
+    color:#fff;
+}
+ li{
+    display: inline;
+}
+#header .block-2{
+    background: #000000;
+    width:100%;
+    margin-top:100px;
+}
+.block-2 nav{
+    color:#fff;
+  
+    
+    }
+.block-2 ul{
+    display: inline-block;
+    width:100%;
+   
+    
+}
+.block-2 li{
+    padding: 26px;
+   font-size: 24px;
+}
+
+.block-3 h2{
+  text-align: center;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 44px;
+}
+.sub_head{
+    font-style: italic;
+    text-align: center;
+    color: #111;
+    font-family: 'Times New Roman', Georgia, serif;
+    font-size: 18px;
+    margin-bottom: 44px;
+    margin-top: 7px;
+}
+.block-3 .grid_4{
+    display: inline-block;
+    padding: 10px;
+}
+.grid_4 img{
+    width:277px;
+    height:300px;
+   margin-bottom: 32px;
+    
+}
+.grid_4 a{
+    margin-left: 50px;
+}
+.block-4{
+    background-color: aliceblue;
+}
+.block-4 .grid_6{
+    display: inline-block;
+    width:570px;
+}
+
+
+.block-4 h2{
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 47px;
+    margin-top: 46px;
+    padding-right: 20px;
+    padding-top: 20px;
+   
+}
+.block-4 img {
+    width: 570px;
+    height:277px;
+    
+    padding: 10px;
+}
+.block-5{
+    background-attachment: fixed;
+    position: relative;
+    background-image: url(img/index-stell-bg.jpg);
+    background-color: #FFF;
+    width: 100%;
+}
+.grid_3{
+    display: inline-block;
+    
+}
+.block-5 h2{
+    text-align: center;
+    color: aliceblue;
+    margin-top: -10px;
+    padding:20px;
+    font-size: 28px;
+}
+.block-5 .sub_head{
+    text-align: center;
+    color: aliceblue;
+    margin-top: -10px;
+}
+#touch_gallery .grid_3{
+    width:270px;
+    
+}
+#touch_gallery img{
+    width:257px;
+    height: 270px;
+    position: relative;
+ 
+}
+#touch_gallery a{
+    color: aliceblue;
+}
+.block-6 h2{
+    text-align: center;
+}
+
+.block-6_element{
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    
+
+   
+    font-family: 'Times New Roman', Georgia, Serif;
+    font-style: italic;
+   
+}
+
+.block-6_item img{
+    width: 146px;
+    height: 146px;
+    border-radius: 50%;
+
+   margin-top: 20px;
+   
+}
+
+.block-7
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.block-7 h2{
+    text-align: center;
+    padding-top: 15px;
+}
+.block-7 .grid_4{
+    padding-bottom: 50px;
+}
+.block-8 {
+    padding: 48px 0px 50px 0px;
+}
+.block-8 .grid_12{
+    
+    min-height: 1px;
+   display: flex;
+}
+.block-8 div{
+    font-size: 40px;
+    font-family: 'Open Sans', sans-serif;
+    
+    letter-spacing: -1px;
+}
+.block-8 .btn{
+    color: #000;
+    height:40px;
+    min-width: 100px;
+    border: 3px solid #000;
+    font-size:20px;
+    
+    padding : 0 35px 0 29px;
+    text-decoration-line: none;
+    
+    line-height: 40px;
+   
+    
+}
+#footer .logo{
+    color:chartreuse;
+}
+#footer h1{
+    
+   font-family: 'Pacifico', cursive;
+    font-size: 28px;
+    width: 150px;
+    height: 78px;
+    
+    border: 3px solid #fff;
+    border-bottom: none;
+    position: relative;
+   
+    line-height: 72px;
+    color: #fff;
+    
+}
+#footer .logo span{
+    vertical-align: -25px;
+    text-transform: uppercase;
+    font-size: 14px;
+    right: 13px;
+    bottom: -5px;
+    font-weight: 900;
+    line-height: 14px;
+    font-family:'Open Sans', sans-serif;
+    color: inherit;
+    position: absolute;
+}
+#footer{
+   
+    background-color: #000;
+ 
+
+}
+#footer li{
+   
+    color: azure;
+}
+#footer .grid_2{
+    width:170px;
+    float: left;
+    margin-left: 30px;
+}
+#footer .grid_10{
+    width: 970px;
+}
+
+#footer nav{
+    display: block;
+    margin-top:10px;
+    text-align: center;
+    padding: 20px;
+}
+h5 {
+    font-family: 'Times New Roman', Georgia, Serif;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #787878;
+    text-align: center;
+    line-height: 24px;
+    
+}
+
+#myImg:hover {
+background: transparent;
+}
+#myImg:hover {opacity: 0.5;}
+a
+{
+    
+}
+a:hover
+{
+    text-decoration: underline;
+    color: white;
+}
+.btn:hover
+{
+    background: black;
+    color: white;
+}
+body a:hover{
+    text-decoration: none;
+}
+#cf{
+     background-color:#323a45;
+}
+#navbar{
+    background-color:#323a45;
+    border:0px;
+}
+#navbarh{
+     border:0px;
+}
+#navbari{
+     padding-top:35px;
+}
+#myNavbar{
+    margin-top:10px;
+}
+#navv{
+    border:0px;
+    margin:0px;
+}
+.dropdown ul{
+    background-color:#323a45;
+}
+#cli1,#cli2,#cli3,#cli4,#cli5{
+  color:white;
+}
+.row
+{
+    margin-right: 0px;
+}
+@media screen and (max-width:400px)
+{
+    .block-8 div
+    {
+        font-size: 25px;
+        
+    }
+}
+
+
+
